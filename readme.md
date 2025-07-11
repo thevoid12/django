@@ -1,5 +1,6 @@
 https://docs.djangoproject.com/en/5.2/intro/
 https://docs.djangoproject.com/en/5.2/topics/db/queries/
+https://docs.djangoproject.com/en/5.2/topics/templates/
 
 
 # django
@@ -20,4 +21,4 @@ python manage.py startapp polls
 
 ## things i need to understand in deep
 - [ ] INSTALLED_APP
-- [ ] 
+- [ ] error handling in python 

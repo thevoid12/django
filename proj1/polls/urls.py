@@ -2,6 +2,7 @@ from django.urls import path
 
 from . import views
 
+app_name = "polls" # this is used to namespace the URLs in the polls app. It allows us to refer to the URLs in this app without conflicts with other apps. used in templates and views.
 urlpatterns = [
       # ex: /polls/
     path("", views.index, name="index"),
